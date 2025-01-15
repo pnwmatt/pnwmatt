@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pnwmatt, in the PNW.
-- 👀 I’m interested in a helping.
+- 👀 I’m interested in helping.
 - 🌱 I’m currently learning Arduino, golang, OpenVoiceOS
 - 💞️ I’m looking to collaborate on civic engagement
 - 😄 Pronouns: he/him
