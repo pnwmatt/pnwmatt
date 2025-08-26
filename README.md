@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pnwmatt, in the [PNW](https://traveloregon.com/only-slightly-exaggerated/)
 - 👀 I’m interested in helping, and could use a job if you're hiring 🤪
-- 🌱 I’m currently learning Arduino, golang, OpenVoiceOS, Nuxt/Drizzle/D1
+- 🌱 I’m currently learning Arduino, golang, OpenVoiceOS, Nuxt
 - 😄 Pronouns: he/him
